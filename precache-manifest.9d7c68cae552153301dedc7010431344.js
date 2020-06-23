@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0e7d1b721b0d5971c701bf9b352e897",
+    "revision": "e90f65bbaab45cefe741c4ebf05d2160",
     "url": "/relieved-city-app/index.html"
   },
   {
-    "revision": "821f7090cd89cd940c46",
+    "revision": "2bba1a47b8895d08241c",
     "url": "/relieved-city-app/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/relieved-city-app/static/js/2.6cb6d0fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "821f7090cd89cd940c46",
-    "url": "/relieved-city-app/static/js/main.5eb3e78d.chunk.js"
+    "revision": "2bba1a47b8895d08241c",
+    "url": "/relieved-city-app/static/js/main.1d46d019.chunk.js"
   },
   {
     "revision": "e20a5385f8203fdf387d",
