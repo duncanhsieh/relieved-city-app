@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/relieved-city-app/precache-manifest.541a4a78f43bd0c8a52d91583f279610.js"
+  "/relieved-city-app/precache-manifest.d3901fb8c1861cc797f5d707413fcf7a.js"
 );
 
 self.addEventListener('message', (event) => {

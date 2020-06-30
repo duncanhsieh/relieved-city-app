@@ -1,0 +1,33 @@
+{
+  "title": "test",
+  "date": "2020-07-03",
+  "scene": {
+    "C_START": {
+      "time": "16:00:00",
+      "duration": "00:15:00",
+      "description": "心中的花園_第一趴_城市電影院_自己__空中的音樂",
+      "h1": "心中的花園",
+      "h2": null,
+      "audio": "",
+      "screen": [
+        {
+          "background": "",
+          "subtitle": "",
+          "duration": 60000
+        },
+        {
+          "background": "",
+          "subtitle": "",
+          "duration": 60000
+        }
+      ],
+      "action": [
+        {
+          "appear": "16:15:00",
+          "title": "旅程開始",
+          "scene": "C1"
+        }
+      ]
+    }
+  }
+}
